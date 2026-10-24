@@ -25,7 +25,7 @@ Instruktur: Maulana Malik Nashrulloh, Ph.D.
 - 04_barplot_tumpuk.R
 - 04_barplot_tumpuk_berfaset.R
 
-## Alpha Diversity (Shannon, Faith' PD) 
+## Pembuatan Data Excel
 
 - 05_untuk_buat_excel_kelimpahan.R
 - 06_baca_excel_kelimpahan.R
