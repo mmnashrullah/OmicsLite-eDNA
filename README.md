@@ -2,6 +2,10 @@
 
 Instruktur: Maulana Malik Nashrulloh, Ph.D.
 
+# Akses Data
+
+Data latih dapat di download di https://drive.google.com/drive/folders/1urTTCyfnWAMBkjgZolz8l7gSTAicrzFl?usp=sharing
+
 # Daftar Isi
 
 ## Instalasi Pustaka
